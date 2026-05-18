@@ -178,7 +178,7 @@ def play():
     print("\nIt's a draw!")
 
 if __name__ == '__main__':
-    play()<img width="1240" height="2772" alt="34801" src="https://github.com/user-attachments/assets/7d47239d-3b72-4414-8d09-5dd713533fad" />
+
 
 
 
