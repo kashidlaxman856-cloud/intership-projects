@@ -182,9 +182,7 @@ if __name__ == '__main__':
 
 
 
-
-
-#AI CHATBOT FOR COLLEGE HELPDESK
+# AI CHATBOT FOR COLLEGE HELPDESK
 CODE: import re
 import random
 
@@ -348,8 +346,8 @@ if __name__ == "__main__":
 
 
 
-    #AI BASED RESUME SHORTLISTING SYSTEM 
-    CODE:# You will need scikit-learn installed for this code to run. 
+# AI BASED RESUME SHORTLISTING SYSTEM 
+CODE:# You will need scikit-learn installed for this code to run. 
 # Command: pip install scikit-learn
 
 from sklearn.feature_extraction.text import TfidfVectorizer
